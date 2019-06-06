@@ -79,6 +79,16 @@ p {
     line-height: 2.0
 }
 
+.wpforms-form button[type=submit] {
+	background-color: #024488 !important;
+	border-color: #024488 !important;
+	color: #fff !important
+}
+
+.wpforms-form button[type=submit]:hover {
+	background-color: #022B57 !important;
+}
+
 footer {
     color: white;
     border-top: 8px solid #4aaaa5;
